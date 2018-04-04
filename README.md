@@ -1,6 +1,6 @@
 # Passport Discussion
 
-A forum for discussing projects projects under the [Passport](https://github.com/jaredhanson/passport)
+A forum for discussing projects projects under the [Passport](http://www.passportjs.org/)
 umbrella.
 
 #### Posting to Discuss
